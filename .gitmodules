@@ -1,0 +1,4 @@
+[submodule "deps/stb"]
+	path = deps/stb
+	url = https://github.com/manuel-ai-commits/stb
+	branch = stb_image_write
