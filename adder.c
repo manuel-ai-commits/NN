@@ -7,7 +7,7 @@
 #define OLIVEC_IMPLEMENTATION
 #include "olive.c"
 #define STB_IMAGE_WRITE_IMPLEMENTATION
-#include "stb_image_write.h"
+#include "deps/sv/stb_image_write.h"
 
 #define BITS 4
 

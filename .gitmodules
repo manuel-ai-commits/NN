@@ -2,3 +2,9 @@
 	path = deps/stb
 	url = https://github.com/manuel-ai-commits/stb
 	branch = stb_image_write
+[submodule "deps/sv"]
+	path = deps/sv
+	url = https://github.com/tsoding/sv
+[submodule "deps/olive_c"]
+	path = deps/olive_c
+	url = https://github.com/tsoding/olive.c
